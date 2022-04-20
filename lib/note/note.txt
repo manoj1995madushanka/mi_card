@@ -1,0 +1,2 @@
+type "start" and press tab for get default flutter class template
+
